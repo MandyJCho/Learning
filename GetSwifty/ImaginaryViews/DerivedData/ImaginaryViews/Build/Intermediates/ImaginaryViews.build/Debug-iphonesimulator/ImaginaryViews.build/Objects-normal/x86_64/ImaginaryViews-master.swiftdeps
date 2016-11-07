@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "6b7917e504dfc3c3c779c84191c8e378"
+build_time: [519358825, 376302000]
+inputs:
+  "/Users/Mandy_Cho/Documents/GetSwifty/ImaginaryViews/ImaginaryViews/ViewController.swift": [519358825, 0]
+  "/Users/Mandy_Cho/Documents/GetSwifty/ImaginaryViews/ImaginaryViews/AppDelegate.swift": [519311591, 0]

@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "99b12587115e958d45c9df8a4312cad5"
+build_time: [519921703, 16387000]
+inputs:
+  "/Users/Mandy_Cho/Documents/GetSwifty/Voice/Voice/DetailViewController.swift": [519488712, 0]
+  "/Users/Mandy_Cho/Documents/GetSwifty/Voice/Voice/MasterViewController.swift": [519921702, 0]
+  "/Users/Mandy_Cho/Documents/GetSwifty/Voice/Voice/AppDelegate.swift": [519486045, 0]
+  "/Users/Mandy_Cho/Documents/GetSwifty/Voice/Voice/SwiftyJSON.swift": [519363714, 0]

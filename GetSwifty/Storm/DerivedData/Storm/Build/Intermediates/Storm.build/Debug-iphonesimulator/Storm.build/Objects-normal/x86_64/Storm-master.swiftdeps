@@ -1,0 +1,7 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "e9e7354f3d7d17056822bafb31ca4f01"
+build_time: [518630967, 674008000]
+inputs:
+  "/Users/Mandy_Cho/Documents/getS(ch)wifty/Storm/Storm/DetailViewController.swift": [518630967, 0]
+  "/Users/Mandy_Cho/Documents/getS(ch)wifty/Storm/Storm/MasterViewController.swift": [518623838, 0]
+  "/Users/Mandy_Cho/Documents/getS(ch)wifty/Storm/Storm/AppDelegate.swift": [518552883, 0]

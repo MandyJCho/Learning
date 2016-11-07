@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "4009527e631a3584b55ea58cc576def4"
+build_time: [519310853, 931946000]
+inputs:
+  "/Users/Mandy_Cho/Documents/GetSwifty/FlagTeam/FlagTeam/ViewController.swift": [519310853, 0]
+  "/Users/Mandy_Cho/Documents/GetSwifty/FlagTeam/FlagTeam/AppDelegate.swift": [518126823, 0]

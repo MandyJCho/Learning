@@ -1,0 +1,7 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "88d3e5a99c96ccde28be721ad0b15ecb"
+build_time: [520388407, 136916000]
+inputs:
+  "/Users/Mandy_Cho/Documents/GetSwifty/Pachinko/Pachinko/GameScene.swift": [520388406, 0]
+  "/Users/Mandy_Cho/Documents/GetSwifty/Pachinko/Pachinko/GameViewController.swift": [520387868, 0]
+  "/Users/Mandy_Cho/Documents/GetSwifty/Pachinko/Pachinko/AppDelegate.swift": [520387868, 0]

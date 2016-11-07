@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "eeebd7f1c108eaf2cb437f02826ad9ff"
+build_time: [521040299, 319929000]
+inputs:
+  "/Users/Mandy_Cho/Documents/GetSwifty/Memorari/Memorari/PersonCell.swift": [520007892, 0]
+  "/Users/Mandy_Cho/Documents/GetSwifty/Memorari/Memorari/ViewController.swift": [521040299, 0]
+  "/Users/Mandy_Cho/Documents/GetSwifty/Memorari/Memorari/Person.swift": [520705307, 0]
+  "/Users/Mandy_Cho/Documents/GetSwifty/Memorari/Memorari/AppDelegate.swift": [520004664, 0]

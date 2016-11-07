@@ -1,0 +1,595 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "C14ImaginaryViews14ViewController"
+provides-member:
+- ["C14ImaginaryViews14ViewController", ""]
+provides-dynamic-lookup:
+- "viewDidLoad"
+- "didReceiveMemoryWarning"
+depends-top-level:
+- !private "Array"
+- !private "BooleanLiteralType"
+- !private "NSLayoutConstraint"
+- !private "StringLiteralType"
+- "ViewController"
+- !private "UIColor"
+- !private "Dictionary"
+- "UIViewController"
+- !private "UILabel"
+depends-member:
+- !private ["Ps9AnyObject", "NSLayoutConstraint"]
+- !private ["Ps9AnyObject", "UIColor"]
+- !private ["Ps9AnyObject", "UILabel"]
+- !private ["Ps9AnyObject", "addConstraints"]
+- !private ["Ps9AnyObject", "addSubview"]
+- !private ["Ps9AnyObject", "backgroundColor"]
+- !private ["Ps9AnyObject", "blueColor"]
+- !private ["Ps9AnyObject", "constraintsWithVisualFormat"]
+- !private ["Ps9AnyObject", "deinit"]
+- ["Ps9AnyObject", "didReceiveMemoryWarning"]
+- !private ["Ps9AnyObject", "greenColor"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "orangeColor"]
+- !private ["Ps9AnyObject", "purpleColor"]
+- !private ["Ps9AnyObject", "redColor"]
+- !private ["Ps9AnyObject", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["Ps9AnyObject", "view"]
+- ["Ps9AnyObject", "viewDidLoad"]
+- !private ["Ps9AnyObject", "yellowColor"]
+- ["Ps9AnyObject", ""]
+- !private ["Ps23ArrayLiteralConvertible", "AlignAllCenterX"]
+- !private ["Ps23ArrayLiteralConvertible", "Element"]
+- !private ["Ps22BidirectionalIndexType", "IntegerLiteralType"]
+- !private ["Ps21BitwiseOperationsType", "IntegerLiteralType"]
+- !private ["Sb", "deinit"]
+- !private ["Ps11CVarArgType", "IntegerLiteralType"]
+- !private ["Ps11CVarArgType", "NSLayoutConstraint"]
+- !private ["Ps11CVarArgType", "UIColor"]
+- !private ["Ps11CVarArgType", "UILabel"]
+- !private ["Ps11CVarArgType", "addConstraints"]
+- !private ["Ps11CVarArgType", "addSubview"]
+- !private ["Ps11CVarArgType", "backgroundColor"]
+- !private ["Ps11CVarArgType", "blueColor"]
+- !private ["Ps11CVarArgType", "constraintsWithVisualFormat"]
+- ["Ps11CVarArgType", "didReceiveMemoryWarning"]
+- !private ["Ps11CVarArgType", "greenColor"]
+- ["Ps11CVarArgType", "init"]
+- !private ["Ps11CVarArgType", "orangeColor"]
+- !private ["Ps11CVarArgType", "purpleColor"]
+- !private ["Ps11CVarArgType", "redColor"]
+- !private ["Ps11CVarArgType", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["Ps11CVarArgType", "view"]
+- ["Ps11CVarArgType", "viewDidLoad"]
+- !private ["Ps11CVarArgType", "yellowColor"]
+- ["Ps11CVarArgType", ""]
+- !private ["Vs9Character", "deinit"]
+- !private ["Ps14CollectionType", "Generator"]
+- !private ["Ps14CollectionType", "Index"]
+- !private ["Ps14CollectionType", "Key"]
+- !private ["Ps14CollectionType", "SubSequence"]
+- !private ["Ps14CollectionType", "Value"]
+- !private ["Ps14CollectionType", "_Element"]
+- !private ["Ps14CollectionType", "keys"]
+- !private ["Ps10Comparable", "Distance"]
+- !private ["Ps10Comparable", "IntegerLiteralType"]
+- !private ["Ps10Comparable", "_DisabledRangeIndex"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "Generator"]
+- !private ["Ps28CustomDebugStringConvertible", "Index"]
+- !private ["Ps28CustomDebugStringConvertible", "Key"]
+- !private ["Ps28CustomDebugStringConvertible", "NSLayoutConstraint"]
+- !private ["Ps28CustomDebugStringConvertible", "SubSequence"]
+- !private ["Ps28CustomDebugStringConvertible", "UIColor"]
+- !private ["Ps28CustomDebugStringConvertible", "UILabel"]
+- !private ["Ps28CustomDebugStringConvertible", "Value"]
+- !private ["Ps28CustomDebugStringConvertible", "_Element"]
+- !private ["Ps28CustomDebugStringConvertible", "addConstraints"]
+- !private ["Ps28CustomDebugStringConvertible", "addSubview"]
+- !private ["Ps28CustomDebugStringConvertible", "backgroundColor"]
+- !private ["Ps28CustomDebugStringConvertible", "blueColor"]
+- !private ["Ps28CustomDebugStringConvertible", "constraintsWithVisualFormat"]
+- ["Ps28CustomDebugStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps28CustomDebugStringConvertible", "greenColor"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "keys"]
+- !private ["Ps28CustomDebugStringConvertible", "orangeColor"]
+- !private ["Ps28CustomDebugStringConvertible", "purpleColor"]
+- !private ["Ps28CustomDebugStringConvertible", "redColor"]
+- !private ["Ps28CustomDebugStringConvertible", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["Ps28CustomDebugStringConvertible", "view"]
+- ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- !private ["Ps28CustomDebugStringConvertible", "yellowColor"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "Generator"]
+- !private ["Ps23CustomStringConvertible", "Index"]
+- !private ["Ps23CustomStringConvertible", "IntegerLiteralType"]
+- !private ["Ps23CustomStringConvertible", "Key"]
+- !private ["Ps23CustomStringConvertible", "NSLayoutConstraint"]
+- !private ["Ps23CustomStringConvertible", "SubSequence"]
+- !private ["Ps23CustomStringConvertible", "UIColor"]
+- !private ["Ps23CustomStringConvertible", "UILabel"]
+- !private ["Ps23CustomStringConvertible", "Value"]
+- !private ["Ps23CustomStringConvertible", "_Element"]
+- !private ["Ps23CustomStringConvertible", "addConstraints"]
+- !private ["Ps23CustomStringConvertible", "addSubview"]
+- !private ["Ps23CustomStringConvertible", "backgroundColor"]
+- !private ["Ps23CustomStringConvertible", "blueColor"]
+- !private ["Ps23CustomStringConvertible", "constraintsWithVisualFormat"]
+- ["Ps23CustomStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps23CustomStringConvertible", "greenColor"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "keys"]
+- !private ["Ps23CustomStringConvertible", "orangeColor"]
+- !private ["Ps23CustomStringConvertible", "purpleColor"]
+- !private ["Ps23CustomStringConvertible", "redColor"]
+- !private ["Ps23CustomStringConvertible", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["Ps23CustomStringConvertible", "view"]
+- ["Ps23CustomStringConvertible", "viewDidLoad"]
+- !private ["Ps23CustomStringConvertible", "yellowColor"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Vs10Dictionary", "Generator"]
+- !private ["Vs10Dictionary", "Index"]
+- !private ["Vs10Dictionary", "Key"]
+- !private ["Vs10Dictionary", "SubSequence"]
+- !private ["Vs10Dictionary", "Value"]
+- !private ["Vs10Dictionary", "_Element"]
+- !private ["Vs10Dictionary", "keys"]
+- !private ["Vs15DictionaryIndex", "Distance"]
+- !private ["Vs15DictionaryIndex", "_DisabledRangeIndex"]
+- !private ["Ps28DictionaryLiteralConvertible", "Generator"]
+- !private ["Ps28DictionaryLiteralConvertible", "Index"]
+- !private ["Ps28DictionaryLiteralConvertible", "Key"]
+- !private ["Ps28DictionaryLiteralConvertible", "SubSequence"]
+- !private ["Ps28DictionaryLiteralConvertible", "Value"]
+- !private ["Ps28DictionaryLiteralConvertible", "_Element"]
+- !private ["Ps28DictionaryLiteralConvertible", "keys"]
+- !private ["Sd", "deinit"]
+- !private ["Ps9Equatable", "AlignAllCenterX"]
+- !private ["Ps9Equatable", "Distance"]
+- !private ["Ps9Equatable", "Element"]
+- !private ["Ps9Equatable", "IntegerLiteralType"]
+- !private ["Ps9Equatable", "NSLayoutConstraint"]
+- !private ["Ps9Equatable", "UIColor"]
+- !private ["Ps9Equatable", "UILabel"]
+- !private ["Ps9Equatable", "_DisabledRangeIndex"]
+- !private ["Ps9Equatable", "addConstraints"]
+- !private ["Ps9Equatable", "addSubview"]
+- !private ["Ps9Equatable", "backgroundColor"]
+- !private ["Ps9Equatable", "blueColor"]
+- !private ["Ps9Equatable", "constraintsWithVisualFormat"]
+- ["Ps9Equatable", "didReceiveMemoryWarning"]
+- !private ["Ps9Equatable", "greenColor"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "orangeColor"]
+- !private ["Ps9Equatable", "purpleColor"]
+- !private ["Ps9Equatable", "redColor"]
+- !private ["Ps9Equatable", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["Ps9Equatable", "view"]
+- ["Ps9Equatable", "viewDidLoad"]
+- !private ["Ps9Equatable", "yellowColor"]
+- ["Ps9Equatable", ""]
+- !private ["Ps41ExtendedGraphemeClusterLiteralConvertible", "init"]
+- !private ["Sf", "deinit"]
+- !private ["Ps16ForwardIndexType", "Distance"]
+- !private ["Ps16ForwardIndexType", "IntegerLiteralType"]
+- !private ["Ps16ForwardIndexType", "_DisabledRangeIndex"]
+- !private ["Ps13GeneratorType", "Element"]
+- !private ["Ps8Hashable", "IntegerLiteralType"]
+- !private ["Ps8Hashable", "NSLayoutConstraint"]
+- !private ["Ps8Hashable", "UIColor"]
+- !private ["Ps8Hashable", "UILabel"]
+- !private ["Ps8Hashable", "addConstraints"]
+- !private ["Ps8Hashable", "addSubview"]
+- !private ["Ps8Hashable", "backgroundColor"]
+- !private ["Ps8Hashable", "blueColor"]
+- !private ["Ps8Hashable", "constraintsWithVisualFormat"]
+- ["Ps8Hashable", "didReceiveMemoryWarning"]
+- !private ["Ps8Hashable", "greenColor"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "orangeColor"]
+- !private ["Ps8Hashable", "purpleColor"]
+- !private ["Ps8Hashable", "redColor"]
+- !private ["Ps8Hashable", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["Ps8Hashable", "view"]
+- ["Ps8Hashable", "viewDidLoad"]
+- !private ["Ps8Hashable", "yellowColor"]
+- ["Ps8Hashable", ""]
+- !private ["Ps9Indexable", "Generator"]
+- !private ["Ps9Indexable", "Index"]
+- !private ["Ps9Indexable", "Key"]
+- !private ["Ps9Indexable", "SubSequence"]
+- !private ["Ps9Indexable", "Value"]
+- !private ["Ps9Indexable", "_Element"]
+- !private ["Ps9Indexable", "keys"]
+- !private ["Si", "IntegerLiteralType"]
+- !private ["Si", "deinit"]
+- !private ["Vs5Int16", "deinit"]
+- !private ["Vs5Int32", "deinit"]
+- !private ["Vs5Int64", "deinit"]
+- !private ["Vs4Int8", "deinit"]
+- !private ["Ps21IntegerArithmeticType", "IntegerLiteralType"]
+- !private ["Ps25IntegerLiteralConvertible", "IntegerLiteralType"]
+- !private ["Ps11IntegerType", "IntegerLiteralType"]
+- !private ["Ps18LazyCollectionType", "Generator"]
+- !private ["Vs17LazyMapCollection", "Generator"]
+- !private ["Vs16LazyMapGenerator", "Element"]
+- !private ["Ps16LazySequenceType", "Generator"]
+- !private ["Ps14MirrorPathType", "IntegerLiteralType"]
+- !private ["Ps14MirrorPathType", "init"]
+- !private ["PSo8NSCoding", "NSLayoutConstraint"]
+- !private ["PSo8NSCoding", "UIColor"]
+- !private ["PSo8NSCoding", "UILabel"]
+- !private ["PSo8NSCoding", "addConstraints"]
+- !private ["PSo8NSCoding", "addSubview"]
+- !private ["PSo8NSCoding", "backgroundColor"]
+- !private ["PSo8NSCoding", "blueColor"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- !private ["PSo8NSCoding", "greenColor"]
+- ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "orangeColor"]
+- !private ["PSo8NSCoding", "purpleColor"]
+- !private ["PSo8NSCoding", "redColor"]
+- !private ["PSo8NSCoding", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSo8NSCoding", "view"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- !private ["PSo8NSCoding", "yellowColor"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "blueColor"]
+- !private ["PSo9NSCopying", "greenColor"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo9NSCopying", "orangeColor"]
+- !private ["PSo9NSCopying", "purpleColor"]
+- !private ["PSo9NSCopying", "redColor"]
+- !private ["PSo9NSCopying", "yellowColor"]
+- !private ["PSo26NSExtensionRequestHandling", "NSLayoutConstraint"]
+- !private ["PSo26NSExtensionRequestHandling", "UIColor"]
+- !private ["PSo26NSExtensionRequestHandling", "UILabel"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "view"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- !private ["CSo18NSLayoutConstraint", "constraintsWithVisualFormat"]
+- !private ["VSC21NSLayoutFormatOptions", "AlignAllCenterX"]
+- !private ["VSC21NSLayoutFormatOptions", "Element"]
+- !private ["PSo16NSMutableCopying", "init"]
+- !private ["CSo8NSObject", "NSLayoutConstraint"]
+- !private ["CSo8NSObject", "UIColor"]
+- !private ["CSo8NSObject", "UILabel"]
+- !private ["CSo8NSObject", "addConstraints"]
+- !private ["CSo8NSObject", "addSubview"]
+- !private ["CSo8NSObject", "backgroundColor"]
+- !private ["CSo8NSObject", "blueColor"]
+- !private ["CSo8NSObject", "constraintsWithVisualFormat"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- !private ["CSo8NSObject", "greenColor"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "orangeColor"]
+- !private ["CSo8NSObject", "purpleColor"]
+- !private ["CSo8NSObject", "redColor"]
+- !private ["CSo8NSObject", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["CSo8NSObject", "view"]
+- ["CSo8NSObject", "viewDidLoad"]
+- !private ["CSo8NSObject", "yellowColor"]
+- !private ["PSo16NSObjectProtocol", "NSLayoutConstraint"]
+- !private ["PSo16NSObjectProtocol", "UIColor"]
+- !private ["PSo16NSObjectProtocol", "UILabel"]
+- !private ["PSo16NSObjectProtocol", "addConstraints"]
+- !private ["PSo16NSObjectProtocol", "addSubview"]
+- !private ["PSo16NSObjectProtocol", "backgroundColor"]
+- !private ["PSo16NSObjectProtocol", "blueColor"]
+- !private ["PSo16NSObjectProtocol", "constraintsWithVisualFormat"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- !private ["PSo16NSObjectProtocol", "greenColor"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "orangeColor"]
+- !private ["PSo16NSObjectProtocol", "purpleColor"]
+- !private ["PSo16NSObjectProtocol", "redColor"]
+- !private ["PSo16NSObjectProtocol", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSo16NSObjectProtocol", "view"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- !private ["PSo16NSObjectProtocol", "yellowColor"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "blueColor"]
+- !private ["PSo14NSSecureCoding", "greenColor"]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["PSo14NSSecureCoding", "orangeColor"]
+- !private ["PSo14NSSecureCoding", "purpleColor"]
+- !private ["PSo14NSSecureCoding", "redColor"]
+- !private ["PSo14NSSecureCoding", "yellowColor"]
+- !private ["CSo8NSString", "init"]
+- !private ["Ps13OptionSetType", "AlignAllCenterX"]
+- !private ["Ps13OptionSetType", "Element"]
+- !private ["Sq", "deinit"]
+- !private ["Ps16OutputStreamType", "init"]
+- !private ["Ps21RandomAccessIndexType", "IntegerLiteralType"]
+- !private ["Ps16RawRepresentable", "AlignAllCenterX"]
+- !private ["Ps16RawRepresentable", "Element"]
+- !private ["Ps12SequenceType", "Element"]
+- !private ["Ps12SequenceType", "Generator"]
+- !private ["Ps12SequenceType", "Index"]
+- !private ["Ps12SequenceType", "Key"]
+- !private ["Ps12SequenceType", "SubSequence"]
+- !private ["Ps12SequenceType", "Value"]
+- !private ["Ps12SequenceType", "_Element"]
+- !private ["Ps12SequenceType", "keys"]
+- !private ["Ps14SetAlgebraType", "AlignAllCenterX"]
+- !private ["Ps14SetAlgebraType", "Element"]
+- !private ["Ps17SignedIntegerType", "IntegerLiteralType"]
+- !private ["Ps16SignedNumberType", "IntegerLiteralType"]
+- !private ["Vs5Slice", "Generator"]
+- !private ["Vs5Slice", "Index"]
+- !private ["Ps10Streamable", "init"]
+- !private ["Ps10Strideable", "IntegerLiteralType"]
+- !private ["SS", "init"]
+- !private ["Ps30StringInterpolationConvertible", "init"]
+- !private ["Ps24StringLiteralConvertible", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "addConstraints"]
+- !private ["PSo29UIAccessibilityIdentification", "addSubview"]
+- !private ["PSo29UIAccessibilityIdentification", "backgroundColor"]
+- !private ["PSo29UIAccessibilityIdentification", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSo12UIAppearance", "addConstraints"]
+- !private ["PSo12UIAppearance", "addSubview"]
+- !private ["PSo12UIAppearance", "backgroundColor"]
+- !private ["PSo12UIAppearance", "init"]
+- !private ["PSo12UIAppearance", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSo21UIAppearanceContainer", "NSLayoutConstraint"]
+- !private ["PSo21UIAppearanceContainer", "UIColor"]
+- !private ["PSo21UIAppearanceContainer", "UILabel"]
+- !private ["PSo21UIAppearanceContainer", "addConstraints"]
+- !private ["PSo21UIAppearanceContainer", "addSubview"]
+- !private ["PSo21UIAppearanceContainer", "backgroundColor"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSo21UIAppearanceContainer", "view"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["CSo7UIColor", "blueColor"]
+- !private ["CSo7UIColor", "greenColor"]
+- !private ["CSo7UIColor", "orangeColor"]
+- !private ["CSo7UIColor", "purpleColor"]
+- !private ["CSo7UIColor", "redColor"]
+- !private ["CSo7UIColor", "yellowColor"]
+- !private ["PSo18UIContentContainer", "NSLayoutConstraint"]
+- !private ["PSo18UIContentContainer", "UIColor"]
+- !private ["PSo18UIContentContainer", "UILabel"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- ["PSo18UIContentContainer", "init"]
+- !private ["PSo18UIContentContainer", "view"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo17UICoordinateSpace", "addConstraints"]
+- !private ["PSo17UICoordinateSpace", "addSubview"]
+- !private ["PSo17UICoordinateSpace", "backgroundColor"]
+- !private ["PSo17UICoordinateSpace", "init"]
+- !private ["PSo17UICoordinateSpace", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSo13UIDynamicItem", "addConstraints"]
+- !private ["PSo13UIDynamicItem", "addSubview"]
+- !private ["PSo13UIDynamicItem", "backgroundColor"]
+- !private ["PSo13UIDynamicItem", "init"]
+- !private ["PSo13UIDynamicItem", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSo18UIFocusEnvironment", "NSLayoutConstraint"]
+- !private ["PSo18UIFocusEnvironment", "UIColor"]
+- !private ["PSo18UIFocusEnvironment", "UILabel"]
+- !private ["PSo18UIFocusEnvironment", "addConstraints"]
+- !private ["PSo18UIFocusEnvironment", "addSubview"]
+- !private ["PSo18UIFocusEnvironment", "backgroundColor"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSo18UIFocusEnvironment", "view"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["CSo7UILabel", "backgroundColor"]
+- !private ["CSo7UILabel", "init"]
+- !private ["CSo7UILabel", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["CSo11UIResponder", "NSLayoutConstraint"]
+- !private ["CSo11UIResponder", "UIColor"]
+- !private ["CSo11UIResponder", "UILabel"]
+- !private ["CSo11UIResponder", "addConstraints"]
+- !private ["CSo11UIResponder", "addSubview"]
+- !private ["CSo11UIResponder", "backgroundColor"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["CSo11UIResponder", "view"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- !private ["PSo16UIStateRestoring", "NSLayoutConstraint"]
+- !private ["PSo16UIStateRestoring", "UIColor"]
+- !private ["PSo16UIStateRestoring", "UILabel"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- ["PSo16UIStateRestoring", "init"]
+- !private ["PSo16UIStateRestoring", "view"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["PSo18UITraitEnvironment", "NSLayoutConstraint"]
+- !private ["PSo18UITraitEnvironment", "UIColor"]
+- !private ["PSo18UITraitEnvironment", "UILabel"]
+- !private ["PSo18UITraitEnvironment", "addConstraints"]
+- !private ["PSo18UITraitEnvironment", "addSubview"]
+- !private ["PSo18UITraitEnvironment", "backgroundColor"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSo18UITraitEnvironment", "view"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "addConstraints"]
+- !private ["CSo6UIView", "addSubview"]
+- !private ["CSo6UIView", "backgroundColor"]
+- !private ["CSo6UIView", "init"]
+- !private ["CSo6UIView", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["CSo16UIViewController", "NSLayoutConstraint"]
+- !private ["CSo16UIViewController", "UIColor"]
+- !private ["CSo16UIViewController", "UILabel"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "init"]
+- !private ["CSo16UIViewController", "view"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- !private ["Su", "deinit"]
+- !private ["Vs6UInt16", "deinit"]
+- !private ["Vs6UInt32", "deinit"]
+- !private ["Vs6UInt64", "deinit"]
+- !private ["Vs5UInt8", "deinit"]
+- !private ["Sc", "deinit"]
+- !private ["Ps31UnicodeScalarLiteralConvertible", "init"]
+- !private ["C14ImaginaryViews14ViewController", "NSLayoutConstraint"]
+- !private ["C14ImaginaryViews14ViewController", "UIColor"]
+- !private ["C14ImaginaryViews14ViewController", "UILabel"]
+- ["C14ImaginaryViews14ViewController", "deinit"]
+- ["C14ImaginaryViews14ViewController", "didReceiveMemoryWarning"]
+- ["C14ImaginaryViews14ViewController", "init"]
+- !private ["C14ImaginaryViews14ViewController", "view"]
+- ["C14ImaginaryViews14ViewController", "viewDidLoad"]
+- !private ["Ps49_BuiltinExtendedGraphemeClusterLiteralConvertible", "init"]
+- !private ["Ps33_BuiltinIntegerLiteralConvertible", "IntegerLiteralType"]
+- !private ["Ps32_BuiltinStringLiteralConvertible", "init"]
+- !private ["Ps37_BuiltinUTF16StringLiteralConvertible", "init"]
+- !private ["Ps39_BuiltinUnicodeScalarLiteralConvertible", "init"]
+- !private ["Ps24_ColorLiteralConvertible", "blueColor"]
+- !private ["Ps24_ColorLiteralConvertible", "greenColor"]
+- !private ["Ps24_ColorLiteralConvertible", "orangeColor"]
+- !private ["Ps24_ColorLiteralConvertible", "purpleColor"]
+- !private ["Ps24_ColorLiteralConvertible", "redColor"]
+- !private ["Ps24_ColorLiteralConvertible", "yellowColor"]
+- !private ["Ps14_Incrementable", "Distance"]
+- !private ["Ps14_Incrementable", "IntegerLiteralType"]
+- !private ["Ps14_Incrementable", "_DisabledRangeIndex"]
+- !private ["Ps22_IntegerArithmeticType", "IntegerLiteralType"]
+- !private ["Ps12_IntegerType", "IntegerLiteralType"]
+- !private ["Ps21_ObjectiveCBridgeable", "Generator"]
+- !private ["Ps21_ObjectiveCBridgeable", "Index"]
+- !private ["Ps21_ObjectiveCBridgeable", "IntegerLiteralType"]
+- !private ["Ps21_ObjectiveCBridgeable", "Key"]
+- !private ["Ps21_ObjectiveCBridgeable", "SubSequence"]
+- !private ["Ps21_ObjectiveCBridgeable", "Value"]
+- !private ["Ps21_ObjectiveCBridgeable", "_Element"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "keys"]
+- !private ["Ps22_RandomAccessAmbiguity", "IntegerLiteralType"]
+- !private ["Ps12_Reflectable", "Generator"]
+- !private ["Ps12_Reflectable", "Index"]
+- !private ["Ps12_Reflectable", "IntegerLiteralType"]
+- !private ["Ps12_Reflectable", "Key"]
+- !private ["Ps12_Reflectable", "SubSequence"]
+- !private ["Ps12_Reflectable", "Value"]
+- !private ["Ps12_Reflectable", "_Element"]
+- !private ["Ps12_Reflectable", "addConstraints"]
+- !private ["Ps12_Reflectable", "addSubview"]
+- !private ["Ps12_Reflectable", "backgroundColor"]
+- !private ["Ps12_Reflectable", "init"]
+- !private ["Ps12_Reflectable", "keys"]
+- !private ["Ps12_Reflectable", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["Ps18_SignedIntegerType", "IntegerLiteralType"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Ps23ArrayLiteralConvertible"
+- !private "Ps22BidirectionalIndexType"
+- !private "Ps21BitwiseOperationsType"
+- !private "Sb"
+- "Ps11CVarArgType"
+- !private "Vs9Character"
+- !private "Ps14CollectionType"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- !private "Vs10Dictionary"
+- !private "Vs15DictionaryIndex"
+- !private "Ps28DictionaryLiteralConvertible"
+- !private "Sd"
+- "Ps9Equatable"
+- !private "Ps41ExtendedGraphemeClusterLiteralConvertible"
+- !private "Sf"
+- !private "Ps16ForwardIndexType"
+- !private "Ps13GeneratorType"
+- "Ps8Hashable"
+- !private "Ps9Indexable"
+- !private "Si"
+- !private "Vs5Int16"
+- !private "Vs5Int32"
+- !private "Vs5Int64"
+- !private "Vs4Int8"
+- !private "Ps21IntegerArithmeticType"
+- !private "Ps25IntegerLiteralConvertible"
+- !private "Ps11IntegerType"
+- !private "Ps18LazyCollectionType"
+- !private "Vs17LazyMapCollection"
+- !private "Vs16LazyMapGenerator"
+- !private "Ps16LazySequenceType"
+- !private "Ps14MirrorPathType"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- !private "CSo18NSLayoutConstraint"
+- !private "VSC21NSLayoutFormatOptions"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "Ps13OptionSetType"
+- !private "Sq"
+- !private "Ps16OutputStreamType"
+- !private "Ps21RandomAccessIndexType"
+- !private "Ps16RawRepresentable"
+- !private "Ps12SequenceType"
+- !private "Ps14SetAlgebraType"
+- !private "Ps17SignedIntegerType"
+- !private "Ps16SignedNumberType"
+- !private "Vs5Slice"
+- !private "Ps10Streamable"
+- !private "Ps10Strideable"
+- !private "SS"
+- !private "Ps30StringInterpolationConvertible"
+- !private "Ps24StringLiteralConvertible"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- !private "CSo7UIColor"
+- "PSo18UIContentContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "CSo7UILabel"
+- "CSo11UIResponder"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- !private "Su"
+- !private "Vs6UInt16"
+- !private "Vs6UInt32"
+- !private "Vs6UInt64"
+- !private "Vs5UInt8"
+- !private "Sc"
+- !private "Ps31UnicodeScalarLiteralConvertible"
+- "C14ImaginaryViews14ViewController"
+- !private "Ps49_BuiltinExtendedGraphemeClusterLiteralConvertible"
+- !private "Ps33_BuiltinIntegerLiteralConvertible"
+- !private "Ps32_BuiltinStringLiteralConvertible"
+- !private "Ps37_BuiltinUTF16StringLiteralConvertible"
+- !private "Ps39_BuiltinUnicodeScalarLiteralConvertible"
+- !private "Ps24_ColorLiteralConvertible"
+- !private "Ps14_Incrementable"
+- !private "Ps22_IntegerArithmeticType"
+- !private "Ps12_IntegerType"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Ps22_RandomAccessAmbiguity"
+- !private "Ps12_Reflectable"
+- !private "Ps18_SignedIntegerType"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "2273e0b6560749631899e82af2412a52"

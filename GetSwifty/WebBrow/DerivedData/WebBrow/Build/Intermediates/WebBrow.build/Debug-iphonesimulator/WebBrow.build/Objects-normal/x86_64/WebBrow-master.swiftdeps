@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "5d43bb2cf0e771b727f187396b716678"
+build_time: [519915899, 740161000]
+inputs:
+  "/Users/Mandy_Cho/Documents/GetSwifty/WebBrow/WebBrow/ViewController.swift": [518710083, 0]
+  "/Users/Mandy_Cho/Documents/GetSwifty/WebBrow/WebBrow/AppDelegate.swift": [518639214, 0]

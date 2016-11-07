@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "cb1b2f6ef257716aa4ce06e8d1e430fa"
+build_time: [521166120, 504148000]
+inputs:
+  "/Users/Mandy_Cho/Documents/GetSwifty/Filter/Filter/ViewController.swift": [521166120, 0]
+  "/Users/Mandy_Cho/Documents/GetSwifty/Filter/Filter/AppDelegate.swift": [520952390, 0]

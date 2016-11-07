@@ -1,0 +1,146 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PersonCell"
+provides-nominal:
+- "C8Memorari10PersonCell"
+provides-member:
+- ["C8Memorari10PersonCell", ""]
+provides-dynamic-lookup:
+- "picture"
+- "name"
+depends-top-level:
+- "UILabel"
+- "PersonCell"
+- "UICollectionViewCell"
+- "UIImageView"
+depends-member:
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "name"]
+- ["Ps9AnyObject", "picture"]
+- ["Ps9AnyObject", ""]
+- ["Ps11CVarArgType", "init"]
+- ["Ps11CVarArgType", "name"]
+- ["Ps11CVarArgType", "picture"]
+- ["Ps11CVarArgType", ""]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "name"]
+- ["Ps28CustomDebugStringConvertible", "picture"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "name"]
+- ["Ps23CustomStringConvertible", "picture"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "name"]
+- ["Ps9Equatable", "picture"]
+- ["Ps9Equatable", ""]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "name"]
+- ["Ps8Hashable", "picture"]
+- ["Ps8Hashable", ""]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "name"]
+- ["PSo8NSCoding", "picture"]
+- ["PSo8NSCoding", ""]
+- ["CSo8NSObject", "UIImageView"]
+- ["CSo8NSObject", "UILabel"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "name"]
+- ["CSo8NSObject", "picture"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "name"]
+- ["PSo16NSObjectProtocol", "picture"]
+- ["PSo16NSObjectProtocol", ""]
+- ["C8Memorari10PersonCell", "UIImageView"]
+- ["C8Memorari10PersonCell", "UILabel"]
+- ["C8Memorari10PersonCell", "deinit"]
+- ["C8Memorari10PersonCell", "init"]
+- ["C8Memorari10PersonCell", "name"]
+- ["C8Memorari10PersonCell", "picture"]
+- ["PSo29UIAccessibilityIdentification", "init"]
+- ["PSo29UIAccessibilityIdentification", "name"]
+- ["PSo29UIAccessibilityIdentification", "picture"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- ["PSo12UIAppearance", "init"]
+- ["PSo12UIAppearance", "name"]
+- ["PSo12UIAppearance", "picture"]
+- ["PSo12UIAppearance", ""]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "name"]
+- ["PSo21UIAppearanceContainer", "picture"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["CSo24UICollectionReusableView", "UIImageView"]
+- ["CSo24UICollectionReusableView", "UILabel"]
+- ["CSo24UICollectionReusableView", "init"]
+- ["CSo24UICollectionReusableView", "name"]
+- ["CSo24UICollectionReusableView", "picture"]
+- ["CSo20UICollectionViewCell", "UIImageView"]
+- ["CSo20UICollectionViewCell", "UILabel"]
+- ["CSo20UICollectionViewCell", "init"]
+- ["CSo20UICollectionViewCell", "name"]
+- ["CSo20UICollectionViewCell", "picture"]
+- ["CSo20UICollectionViewCell", ""]
+- ["PSo17UICoordinateSpace", "init"]
+- ["PSo17UICoordinateSpace", "name"]
+- ["PSo17UICoordinateSpace", "picture"]
+- ["PSo17UICoordinateSpace", ""]
+- ["PSo13UIDynamicItem", "init"]
+- ["PSo13UIDynamicItem", "name"]
+- ["PSo13UIDynamicItem", "picture"]
+- ["PSo13UIDynamicItem", ""]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "name"]
+- ["PSo18UIFocusEnvironment", "picture"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["CSo11UIResponder", "UIImageView"]
+- ["CSo11UIResponder", "UILabel"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "name"]
+- ["CSo11UIResponder", "picture"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "name"]
+- ["PSo18UITraitEnvironment", "picture"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo6UIView", "UIImageView"]
+- ["CSo6UIView", "UILabel"]
+- ["CSo6UIView", "init"]
+- ["CSo6UIView", "name"]
+- ["CSo6UIView", "picture"]
+- ["Ps12_Reflectable", "init"]
+- ["Ps12_Reflectable", "name"]
+- ["Ps12_Reflectable", "picture"]
+- ["Ps12_Reflectable", ""]
+depends-nominal:
+- "Ps9AnyObject"
+- "Ps11CVarArgType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "PSo8NSCoding"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "C8Memorari10PersonCell"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "CSo24UICollectionReusableView"
+- "CSo20UICollectionViewCell"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "CSo11UIResponder"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "Ps12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "537e7df08679542a994b0d806ba50431"

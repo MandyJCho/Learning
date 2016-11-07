@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "738f9b20e772df78baf6b7b6fe8188a3"
+build_time: [521232971, 881019000]
+inputs:
+  "/Users/Mandy_Cho/Documents/GetSwifty/Whack-A-Penguin/Whack-A-Penguin/GameScene.swift": [521232779, 0]
+  "/Users/Mandy_Cho/Documents/GetSwifty/Whack-A-Penguin/Whack-A-Penguin/GameViewController.swift": [521232673, 0]
+  "/Users/Mandy_Cho/Documents/GetSwifty/Whack-A-Penguin/Whack-A-Penguin/AppDelegate.swift": [521232673, 0]
+  "/Users/Mandy_Cho/Documents/GetSwifty/Whack-A-Penguin/Whack-A-Penguin/helper.swift": [521232788, 0]

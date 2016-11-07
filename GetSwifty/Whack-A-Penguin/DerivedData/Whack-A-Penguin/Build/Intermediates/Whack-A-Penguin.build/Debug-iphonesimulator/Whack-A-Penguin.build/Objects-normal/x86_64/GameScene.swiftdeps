@@ -1,0 +1,173 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "GameScene"
+provides-nominal:
+- "C15Whack_A_Penguin9GameScene"
+provides-member:
+- ["C15Whack_A_Penguin9GameScene", ""]
+provides-dynamic-lookup:
+- "didMoveToView"
+- "update"
+- "touchesBegan"
+depends-top-level:
+- "SKScene"
+- "CFTimeInterval"
+- "UITouch"
+- "Set"
+- "GameScene"
+- "UIEvent"
+- "SKView"
+depends-member:
+- ["Ps9AnyObject", "didMoveToView"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "touchesBegan"]
+- ["Ps9AnyObject", "update"]
+- ["Ps9AnyObject", ""]
+- !private ["Ps23ArrayLiteralConvertible", "Generator"]
+- ["Ps11CVarArgType", "didMoveToView"]
+- ["Ps11CVarArgType", "init"]
+- ["Ps11CVarArgType", "touchesBegan"]
+- ["Ps11CVarArgType", "update"]
+- ["Ps11CVarArgType", ""]
+- !private ["Ps14CollectionType", "Generator"]
+- !private ["Ps28CustomDebugStringConvertible", "Generator"]
+- ["Ps28CustomDebugStringConvertible", "didMoveToView"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "touchesBegan"]
+- ["Ps28CustomDebugStringConvertible", "update"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "Generator"]
+- ["Ps23CustomStringConvertible", "didMoveToView"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "touchesBegan"]
+- ["Ps23CustomStringConvertible", "update"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "Generator"]
+- ["Ps9Equatable", "didMoveToView"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "touchesBegan"]
+- ["Ps9Equatable", "update"]
+- ["Ps9Equatable", ""]
+- ["C15Whack_A_Penguin9GameScene", "CFTimeInterval"]
+- ["C15Whack_A_Penguin9GameScene", "SKView"]
+- ["C15Whack_A_Penguin9GameScene", "Set"]
+- ["C15Whack_A_Penguin9GameScene", "UIEvent"]
+- ["C15Whack_A_Penguin9GameScene", "UITouch"]
+- ["C15Whack_A_Penguin9GameScene", "deinit"]
+- ["C15Whack_A_Penguin9GameScene", "didMoveToView"]
+- ["C15Whack_A_Penguin9GameScene", "init"]
+- ["C15Whack_A_Penguin9GameScene", "touchesBegan"]
+- ["C15Whack_A_Penguin9GameScene", "update"]
+- !private ["Ps13GeneratorType", "Element"]
+- !private ["Ps8Hashable", "Generator"]
+- ["Ps8Hashable", "didMoveToView"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "touchesBegan"]
+- ["Ps8Hashable", "update"]
+- ["Ps8Hashable", ""]
+- !private ["Ps9Indexable", "Generator"]
+- ["PSo8NSCoding", "didMoveToView"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "touchesBegan"]
+- ["PSo8NSCoding", "update"]
+- ["PSo8NSCoding", ""]
+- ["PSo9NSCopying", "didMoveToView"]
+- ["PSo9NSCopying", "init"]
+- ["PSo9NSCopying", "touchesBegan"]
+- ["PSo9NSCopying", "update"]
+- ["PSo9NSCopying", ""]
+- ["CSo8NSObject", "CFTimeInterval"]
+- ["CSo8NSObject", "SKView"]
+- ["CSo8NSObject", "Set"]
+- ["CSo8NSObject", "UIEvent"]
+- ["CSo8NSObject", "UITouch"]
+- ["CSo8NSObject", "didMoveToView"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "touchesBegan"]
+- ["CSo8NSObject", "update"]
+- ["PSo16NSObjectProtocol", "didMoveToView"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "touchesBegan"]
+- ["PSo16NSObjectProtocol", "update"]
+- ["PSo16NSObjectProtocol", ""]
+- ["CSo12SKEffectNode", "CFTimeInterval"]
+- ["CSo12SKEffectNode", "SKView"]
+- ["CSo12SKEffectNode", "Set"]
+- ["CSo12SKEffectNode", "UIEvent"]
+- ["CSo12SKEffectNode", "UITouch"]
+- ["CSo12SKEffectNode", "didMoveToView"]
+- ["CSo12SKEffectNode", "init"]
+- ["CSo12SKEffectNode", "touchesBegan"]
+- ["CSo12SKEffectNode", "update"]
+- ["CSo6SKNode", "CFTimeInterval"]
+- ["CSo6SKNode", "SKView"]
+- ["CSo6SKNode", "Set"]
+- ["CSo6SKNode", "UIEvent"]
+- ["CSo6SKNode", "UITouch"]
+- ["CSo6SKNode", "didMoveToView"]
+- ["CSo6SKNode", "init"]
+- ["CSo6SKNode", "touchesBegan"]
+- ["CSo6SKNode", "update"]
+- ["CSo7SKScene", "CFTimeInterval"]
+- ["CSo7SKScene", "SKView"]
+- ["CSo7SKScene", "Set"]
+- ["CSo7SKScene", "UIEvent"]
+- ["CSo7SKScene", "UITouch"]
+- ["CSo7SKScene", "didMoveToView"]
+- ["CSo7SKScene", "init"]
+- ["CSo7SKScene", "touchesBegan"]
+- ["CSo7SKScene", "update"]
+- ["CSo7SKScene", ""]
+- !private ["Ps12SequenceType", "Generator"]
+- !private ["Vs3Set", "Generator"]
+- !private ["Vs12SetGenerator", "Element"]
+- ["CSo11UIResponder", "CFTimeInterval"]
+- ["CSo11UIResponder", "SKView"]
+- ["CSo11UIResponder", "Set"]
+- ["CSo11UIResponder", "UIEvent"]
+- ["CSo11UIResponder", "UITouch"]
+- ["CSo11UIResponder", "didMoveToView"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "touchesBegan"]
+- ["CSo11UIResponder", "update"]
+- !private ["Ps21_ObjectiveCBridgeable", "Generator"]
+- !private ["Ps12_Reflectable", "Generator"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Ps23ArrayLiteralConvertible"
+- "Ps11CVarArgType"
+- !private "Ps14CollectionType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "C15Whack_A_Penguin9GameScene"
+- !private "Ps13GeneratorType"
+- "Ps8Hashable"
+- !private "Ps9Indexable"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "CSo12SKEffectNode"
+- "CSo6SKNode"
+- "CSo7SKScene"
+- !private "Ps12SequenceType"
+- !private "Vs3Set"
+- !private "Vs12SetGenerator"
+- "CSo11UIResponder"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Ps12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SpriteKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/GLKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+interface-hash: "263873e40f4992602c1c5bda19faa9ab"

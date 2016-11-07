@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "102d6c9d909b0aff545753aabae3d60c"
+build_time: [519839047, 931839000]
+inputs:
+  "/Users/Mandy_Cho/Documents/GetSwifty/Wordsmith/Wordsmith/ViewController.swift": [519839047, 0]
+  "/Users/Mandy_Cho/Documents/GetSwifty/Wordsmith/Wordsmith/AppDelegate.swift": [519489132, 0]

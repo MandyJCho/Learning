@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "9e060f5bfcfadbf88ed104135de9ad43"
+build_time: [519277059, 207479000]
+inputs:
+  "/Users/Mandy_Cho/Documents/GetSwifty/Scrambles/Scrambles/MasterViewController.swift": [519013704, 0]
+  "/Users/Mandy_Cho/Documents/GetSwifty/Scrambles/Scrambles/AppDelegate.swift": [518723652, 0]

@@ -1,0 +1,255 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "GameScene"
+provides-nominal:
+- "C8Pachinko9GameScene"
+provides-member:
+- ["C8Pachinko9GameScene", ""]
+provides-dynamic-lookup:
+- "update"
+- "touchesBegan"
+- "didMoveToView"
+depends-top-level:
+- "SKView"
+- "SKScene"
+- !private "SKSpriteNode"
+- !private "CGPoint"
+- "UIEvent"
+- !private "StringLiteralType"
+- "GameScene"
+- "CFTimeInterval"
+- "Set"
+- "UITouch"
+depends-member:
+- !private ["Ps9AnyObject", "CGPoint"]
+- !private ["Ps9AnyObject", "SKSpriteNode"]
+- !private ["Ps9AnyObject", "addChild"]
+- !private ["Ps9AnyObject", "blendMode"]
+- ["Ps9AnyObject", "didMoveToView"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "position"]
+- ["Ps9AnyObject", "touchesBegan"]
+- ["Ps9AnyObject", "update"]
+- !private ["Ps9AnyObject", "zPosition"]
+- ["Ps9AnyObject", ""]
+- !private ["V12CoreGraphics7CGFloat", "deinit"]
+- !private ["VSC7CGPoint", "init"]
+- !private ["Ps11CVarArgType", "CGPoint"]
+- !private ["Ps11CVarArgType", "SKSpriteNode"]
+- !private ["Ps11CVarArgType", "addChild"]
+- !private ["Ps11CVarArgType", "blendMode"]
+- ["Ps11CVarArgType", "didMoveToView"]
+- ["Ps11CVarArgType", "init"]
+- !private ["Ps11CVarArgType", "position"]
+- ["Ps11CVarArgType", "touchesBegan"]
+- ["Ps11CVarArgType", "update"]
+- !private ["Ps11CVarArgType", "zPosition"]
+- ["Ps11CVarArgType", ""]
+- !private ["Ps28CustomDebugStringConvertible", "CGPoint"]
+- !private ["Ps28CustomDebugStringConvertible", "SKSpriteNode"]
+- !private ["Ps28CustomDebugStringConvertible", "addChild"]
+- !private ["Ps28CustomDebugStringConvertible", "blendMode"]
+- ["Ps28CustomDebugStringConvertible", "didMoveToView"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "position"]
+- ["Ps28CustomDebugStringConvertible", "touchesBegan"]
+- ["Ps28CustomDebugStringConvertible", "update"]
+- !private ["Ps28CustomDebugStringConvertible", "zPosition"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "CGPoint"]
+- !private ["Ps23CustomStringConvertible", "SKSpriteNode"]
+- !private ["Ps23CustomStringConvertible", "addChild"]
+- !private ["Ps23CustomStringConvertible", "blendMode"]
+- ["Ps23CustomStringConvertible", "didMoveToView"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "position"]
+- ["Ps23CustomStringConvertible", "touchesBegan"]
+- ["Ps23CustomStringConvertible", "update"]
+- !private ["Ps23CustomStringConvertible", "zPosition"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "CGPoint"]
+- !private ["Ps9Equatable", "Replace"]
+- !private ["Ps9Equatable", "SKSpriteNode"]
+- !private ["Ps9Equatable", "addChild"]
+- !private ["Ps9Equatable", "blendMode"]
+- ["Ps9Equatable", "didMoveToView"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "position"]
+- ["Ps9Equatable", "touchesBegan"]
+- ["Ps9Equatable", "update"]
+- !private ["Ps9Equatable", "zPosition"]
+- ["Ps9Equatable", ""]
+- ["C8Pachinko9GameScene", "CFTimeInterval"]
+- !private ["C8Pachinko9GameScene", "CGPoint"]
+- !private ["C8Pachinko9GameScene", "SKSpriteNode"]
+- ["C8Pachinko9GameScene", "SKView"]
+- ["C8Pachinko9GameScene", "Set"]
+- ["C8Pachinko9GameScene", "UIEvent"]
+- ["C8Pachinko9GameScene", "UITouch"]
+- !private ["C8Pachinko9GameScene", "addChild"]
+- ["C8Pachinko9GameScene", "deinit"]
+- ["C8Pachinko9GameScene", "didMoveToView"]
+- ["C8Pachinko9GameScene", "init"]
+- ["C8Pachinko9GameScene", "touchesBegan"]
+- ["C8Pachinko9GameScene", "update"]
+- !private ["Ps8Hashable", "CGPoint"]
+- !private ["Ps8Hashable", "Replace"]
+- !private ["Ps8Hashable", "SKSpriteNode"]
+- !private ["Ps8Hashable", "addChild"]
+- !private ["Ps8Hashable", "blendMode"]
+- ["Ps8Hashable", "didMoveToView"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "position"]
+- ["Ps8Hashable", "touchesBegan"]
+- ["Ps8Hashable", "update"]
+- !private ["Ps8Hashable", "zPosition"]
+- ["Ps8Hashable", ""]
+- !private ["PSo8NSCoding", "CGPoint"]
+- !private ["PSo8NSCoding", "SKSpriteNode"]
+- !private ["PSo8NSCoding", "addChild"]
+- !private ["PSo8NSCoding", "blendMode"]
+- ["PSo8NSCoding", "didMoveToView"]
+- ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "position"]
+- ["PSo8NSCoding", "touchesBegan"]
+- ["PSo8NSCoding", "update"]
+- !private ["PSo8NSCoding", "zPosition"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "CGPoint"]
+- !private ["PSo9NSCopying", "SKSpriteNode"]
+- !private ["PSo9NSCopying", "addChild"]
+- !private ["PSo9NSCopying", "blendMode"]
+- ["PSo9NSCopying", "didMoveToView"]
+- ["PSo9NSCopying", "init"]
+- !private ["PSo9NSCopying", "position"]
+- ["PSo9NSCopying", "touchesBegan"]
+- ["PSo9NSCopying", "update"]
+- !private ["PSo9NSCopying", "zPosition"]
+- ["PSo9NSCopying", ""]
+- ["CSo8NSObject", "CFTimeInterval"]
+- !private ["CSo8NSObject", "CGPoint"]
+- !private ["CSo8NSObject", "SKSpriteNode"]
+- ["CSo8NSObject", "SKView"]
+- ["CSo8NSObject", "Set"]
+- ["CSo8NSObject", "UIEvent"]
+- ["CSo8NSObject", "UITouch"]
+- !private ["CSo8NSObject", "addChild"]
+- !private ["CSo8NSObject", "blendMode"]
+- ["CSo8NSObject", "didMoveToView"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "position"]
+- ["CSo8NSObject", "touchesBegan"]
+- ["CSo8NSObject", "update"]
+- !private ["CSo8NSObject", "zPosition"]
+- !private ["PSo16NSObjectProtocol", "CGPoint"]
+- !private ["PSo16NSObjectProtocol", "SKSpriteNode"]
+- !private ["PSo16NSObjectProtocol", "addChild"]
+- !private ["PSo16NSObjectProtocol", "blendMode"]
+- ["PSo16NSObjectProtocol", "didMoveToView"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "position"]
+- ["PSo16NSObjectProtocol", "touchesBegan"]
+- ["PSo16NSObjectProtocol", "update"]
+- !private ["PSo16NSObjectProtocol", "zPosition"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["Ps16RawRepresentable", "Replace"]
+- !private ["OSC11SKBlendMode", "Replace"]
+- ["CSo12SKEffectNode", "CFTimeInterval"]
+- !private ["CSo12SKEffectNode", "CGPoint"]
+- !private ["CSo12SKEffectNode", "SKSpriteNode"]
+- ["CSo12SKEffectNode", "SKView"]
+- ["CSo12SKEffectNode", "Set"]
+- ["CSo12SKEffectNode", "UIEvent"]
+- ["CSo12SKEffectNode", "UITouch"]
+- !private ["CSo12SKEffectNode", "addChild"]
+- ["CSo12SKEffectNode", "didMoveToView"]
+- ["CSo12SKEffectNode", "init"]
+- ["CSo12SKEffectNode", "touchesBegan"]
+- ["CSo12SKEffectNode", "update"]
+- ["CSo6SKNode", "CFTimeInterval"]
+- !private ["CSo6SKNode", "CGPoint"]
+- !private ["CSo6SKNode", "SKSpriteNode"]
+- ["CSo6SKNode", "SKView"]
+- ["CSo6SKNode", "Set"]
+- ["CSo6SKNode", "UIEvent"]
+- ["CSo6SKNode", "UITouch"]
+- !private ["CSo6SKNode", "addChild"]
+- !private ["CSo6SKNode", "blendMode"]
+- ["CSo6SKNode", "didMoveToView"]
+- ["CSo6SKNode", "init"]
+- !private ["CSo6SKNode", "position"]
+- ["CSo6SKNode", "touchesBegan"]
+- ["CSo6SKNode", "update"]
+- !private ["CSo6SKNode", "zPosition"]
+- ["CSo7SKScene", "CFTimeInterval"]
+- !private ["CSo7SKScene", "CGPoint"]
+- !private ["CSo7SKScene", "SKSpriteNode"]
+- ["CSo7SKScene", "SKView"]
+- ["CSo7SKScene", "Set"]
+- ["CSo7SKScene", "UIEvent"]
+- ["CSo7SKScene", "UITouch"]
+- !private ["CSo7SKScene", "addChild"]
+- ["CSo7SKScene", "didMoveToView"]
+- ["CSo7SKScene", "init"]
+- ["CSo7SKScene", "touchesBegan"]
+- ["CSo7SKScene", "update"]
+- ["CSo7SKScene", ""]
+- !private ["CSo12SKSpriteNode", "blendMode"]
+- !private ["CSo12SKSpriteNode", "init"]
+- !private ["CSo12SKSpriteNode", "position"]
+- !private ["CSo12SKSpriteNode", "zPosition"]
+- ["CSo11UIResponder", "CFTimeInterval"]
+- !private ["CSo11UIResponder", "CGPoint"]
+- !private ["CSo11UIResponder", "SKSpriteNode"]
+- ["CSo11UIResponder", "SKView"]
+- ["CSo11UIResponder", "Set"]
+- ["CSo11UIResponder", "UIEvent"]
+- ["CSo11UIResponder", "UITouch"]
+- !private ["CSo11UIResponder", "addChild"]
+- !private ["CSo11UIResponder", "blendMode"]
+- ["CSo11UIResponder", "didMoveToView"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "position"]
+- ["CSo11UIResponder", "touchesBegan"]
+- ["CSo11UIResponder", "update"]
+- !private ["CSo11UIResponder", "zPosition"]
+- !private ["Ps12_Reflectable", "blendMode"]
+- !private ["Ps12_Reflectable", "init"]
+- !private ["Ps12_Reflectable", "position"]
+- !private ["Ps12_Reflectable", "zPosition"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "V12CoreGraphics7CGFloat"
+- !private "VSC7CGPoint"
+- "Ps11CVarArgType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "C8Pachinko9GameScene"
+- "Ps8Hashable"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "Ps16RawRepresentable"
+- !private "OSC11SKBlendMode"
+- "CSo12SKEffectNode"
+- "CSo6SKNode"
+- "CSo7SKScene"
+- !private "CSo12SKSpriteNode"
+- "CSo11UIResponder"
+- !private "Ps12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SpriteKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/GLKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+interface-hash: "263873e40f4992602c1c5bda19faa9ab"
